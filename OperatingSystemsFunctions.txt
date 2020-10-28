@@ -1,1 +1,2 @@
 One function of an operating system is to manage the memory of the computer. The operating system decideds what is allowed to access the memory and how much of it can be used. So for memorty the operating sysmte mostly keeps track of all of it
+Another operating system function is to turn on/start the device. The power button is used to do this and starts up the computuer.
